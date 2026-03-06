@@ -1,0 +1,10 @@
+C:\Users\JAPHETH JAGUAR\source\repos\ATM-MACHINE\ATM-MACHINE\bin\Debug\ATM-MACHINE.exe.config
+C:\Users\JAPHETH JAGUAR\source\repos\ATM-MACHINE\ATM-MACHINE\bin\Debug\ATM-MACHINE.exe
+C:\Users\JAPHETH JAGUAR\source\repos\ATM-MACHINE\ATM-MACHINE\bin\Debug\ATM-MACHINE.pdb
+C:\Users\JAPHETH JAGUAR\source\repos\ATM-MACHINE\ATM-MACHINE\obj\Debug\ATM-MACHINE.csproj.AssemblyReference.cache
+C:\Users\JAPHETH JAGUAR\source\repos\ATM-MACHINE\ATM-MACHINE\obj\Debug\ATM_MACHINE.frmAtm.resources
+C:\Users\JAPHETH JAGUAR\source\repos\ATM-MACHINE\ATM-MACHINE\obj\Debug\ATM_MACHINE.Properties.Resources.resources
+C:\Users\JAPHETH JAGUAR\source\repos\ATM-MACHINE\ATM-MACHINE\obj\Debug\ATM-MACHINE.csproj.GenerateResource.cache
+C:\Users\JAPHETH JAGUAR\source\repos\ATM-MACHINE\ATM-MACHINE\obj\Debug\ATM-MACHINE.csproj.CoreCompileInputs.cache
+C:\Users\JAPHETH JAGUAR\source\repos\ATM-MACHINE\ATM-MACHINE\obj\Debug\ATM-MACHINE.exe
+C:\Users\JAPHETH JAGUAR\source\repos\ATM-MACHINE\ATM-MACHINE\obj\Debug\ATM-MACHINE.pdb
